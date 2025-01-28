@@ -16,3 +16,6 @@ yarn install
 ```bash
 yarn start
 ```
+
+## Technical Test
+Refer to [TechTest.md](./TechTest.md).
