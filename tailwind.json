@@ -1,0 +1,17 @@
+{
+    "text-lg": { "style": { "fontSize": 18 } },
+    "text-2xl": { "style": { "fontSize": 24, "fontWeight": "700" } },
+    "font-bold": { "style": { "fontWeight": "700" } },
+    "text-gray-500": { "style": { "color": "#6b7280" } },
+    "text-gray-600": { "style": { "color": "#4b5563" } },
+    "bg-gray-100": { "style": { "backgroundColor": "#f3f4f6" } },
+    "bg-white": { "backgroundColor": "#ffffff" },
+    "p-4": { "padding": 16 },
+    "rounded-lg": { "borderRadius": 12 },
+    "mb-2": { "marginBottom": 8 },
+    "shadow": { "elevation": 4 },
+    "flex-1": { "flex": 1 },
+    "justify-center": { "justifyContent": "center" },
+    "items-center": { "style": { "alignItems": "center" } }
+  }
+  
